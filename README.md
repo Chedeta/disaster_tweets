@@ -21,8 +21,7 @@ Le dataset de training est assez équilibré, cependant les données étant extr
 
 ## 3. Aperçu des résultats 
 
-Pour entrainement du modèle, le module <code>keras</code> de <code>TensorFlow</code> a été utilisé avec les paramètres suivants (ceux qui ont permis d'obtenir les meilleurs résultats sur le dataset de test :
-
+Pour entrainement du modèle, le module <code>keras</code> de <code>TensorFlow</code> a été utilisé. Le modèle optimal comporte ainsi 4 couches dont deux fonctions d'activation, une relu et une sigmoid pour les résultats suivants :
 
 ![download](https://user-images.githubusercontent.com/96300465/199682061-9c33726a-cf4d-4b2e-b311-40020dc8cffa.png)
 
