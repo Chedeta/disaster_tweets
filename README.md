@@ -21,7 +21,17 @@ Le dataset de training est assez équilibré, cependant les données étant extr
 
 ## 3. Aperçu des résultats 
 
-Pour entrainement du modèle, le module <code>keras</code> de <code>TensorFlow</code> a été utilisé. Le modèle optimal comporte ainsi 4 couches dont deux fonctions d'activation, une relu et une sigmoid pour les résultats suivants :
+Pour témoigner de la qualité du pre-processing, un <code>wordcloud</code> a été effectué sur chacune des target du dataset de train :
+
+Target = 0 (non-disaster tweet) :
+![download](https://user-images.githubusercontent.com/96300465/199686110-3fa28cc7-1222-4e62-9bec-a01eb5af26a3.png)
+
+Target = 1 (disaster tweet) :
+![download](https://user-images.githubusercontent.com/96300465/199686127-c549e3d5-c79f-4637-8dcd-17b48b2fd6f2.png)
+
+On retrouve des mots clef du champ lexical de la catastrophe dans le deuxième <code>wordcloud</code> que l'on ne retrouve pas dans le premier.
+
+Ainsi, pour l'entrainement du modèle, le module <code>keras</code> de <code>TensorFlow</code> a été utilisé. Le modèle optimal comporte ainsi 4 couches dont deux fonctions d'activation, une relu et une sigmoid pour les résultats suivants :
 
 ![download](https://user-images.githubusercontent.com/96300465/199682061-9c33726a-cf4d-4b2e-b311-40020dc8cffa.png)
 
