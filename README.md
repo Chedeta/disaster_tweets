@@ -13,4 +13,14 @@ La (1) et la (2) possèdent le même mot clef "kill", le premier ne revêt cepen
 
 ## 2. Data overview
 
-Le training set possède 7503 tweets répartis de la façon suivante![download](https://user-images.githubusercontent.com/96300465/199680269-ae864f0b-9325-4536-b222-9253620c14cd.png)
+Le training set possède 7503 tweets répartis de la façon suivante :
+
+![download](https://user-images.githubusercontent.com/96300465/199680269-ae864f0b-9325-4536-b222-9253620c14cd.png)
+
+Le dataset de training est assez équilibré, cependant les données étant extraites du site Twitter, un pre-processing sur les caractères est nécessaire afin de pouvoir entraîner les algorithmes, avec <code>regex</code> pour le nettoyage des caractères spéciaux et <code>spacy</code> pour la lemmatisation.
+
+## 3. Aperçu des résultats 
+
+## 4. Crédits
+
+Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a>
