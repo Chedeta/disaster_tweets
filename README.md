@@ -21,6 +21,11 @@ Le dataset de training est assez équilibré, cependant les données étant extr
 
 ## 3. Aperçu des résultats 
 
+Pour entrainement du modèle, le module <code>keras</code> de <code>TensorFlow</code> a été utilisé avec les paramètres suivants (ceux qui ont permis d'obtenir les meilleurs résultats sur le dataset de test :
+
+
+![download](https://user-images.githubusercontent.com/96300465/199682061-9c33726a-cf4d-4b2e-b311-40020dc8cffa.png)
+
 ## 4. Crédits
 
-Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a>
+Auteur : Jean Ivars, avec la participation d'<a href='https://github.com/Bebock'>Hélène</a>
