@@ -37,4 +37,4 @@ Ainsi, pour l'entrainement du modèle, le module <code>keras</code> de <code>Ten
 
 ## 4. Crédits
 
-Auteur : Jean Ivars, avec la participation d'<a href='https://github.com/Bebock'>Hélène</a>
+Auteurs : Jean Ivars, avec la participation d'<a href='https://github.com/Bebock'>Hélène</a>
