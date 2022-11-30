@@ -1,5 +1,7 @@
 # Projet Disaster Tweets : reconnaissance de tweets sur des catastrophes
 
+🎬 <a href='https://share.vidyard.com/watch/iKq2CRoskhWXJb9YPP2ioX?'>Cliquer ici pour la vidéo de présentation du projet</a>
+
 ## 1. Objectif
 
 Twitter est devenu un important réseau de communication en cas d'urgence. L'omniprésence des smartphones permet aux gens d'annoncer une urgence qu'ils observent en temps réel. C'est pourquoi de plus en plus d'organismes s'intéressent à la surveillance programmatique de Twitter (par exemple, les organisations de secours en cas de catastrophe et les agences de presse).
